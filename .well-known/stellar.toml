@@ -13,3 +13,10 @@ ORG_KEYBASE="accountname"
 ORG_TWITTER="orgtweet"
 ORG_GITHUB="orgcode"
 ORG_OFFICIAL_EMAIL="support@domain.com"
+
+[[CURRENCIES]]
+code="EDU"
+issuer="GAKZMGFNOAZZP5S57JGMILKNMKVGL6465AD6QKRBD3E7JTHUCZHIEB3A"
+display_decimals=8
+name="Educational Coin"
+image="https://middleman-club.herokuapp.com/imgs/company.png"
