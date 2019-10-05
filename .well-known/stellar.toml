@@ -3,8 +3,8 @@ code="EDU"
 conditions="There will only ever be 500 million EDU."
 desc="Learning Coins"
 display_decimals=7
-host="https://middleman-club.herokuapp.com"
-image="https://middleman-club.herokuapp.com/company.png"
+host="http://middleman.club"
+image="http://middleman.club/company.png"
 issuer="GAKZMGFNOAZZP5S57JGMILKNMKVGL6465AD6QKRBD3E7JTHUCZHIEB3A"
 name="Educational Coin"
 
